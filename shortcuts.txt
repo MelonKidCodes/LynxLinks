@@ -1,0 +1,1 @@
+[{"shortcut": "tr", "link": "tetr.io", "exe": "url"}, {"shortcut": "tetr", "link": "C:\\Users\\ethan\\AppData\\Local\\Programs\\tetrio-desktop\\TETR.IO.exe", "exe": "url"}]
